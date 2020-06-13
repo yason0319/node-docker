@@ -1,0 +1,22 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "node docker test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yason0319/node-docker.git"
+  },
+  "author": "Izuru Nomura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yason0319/node-docker/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "homepage": "https://github.com/yason0319/node-docker#readme"
+}
